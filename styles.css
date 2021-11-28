@@ -1,0 +1,73 @@
+body {
+  background-image: url("./marble-background.jpg");
+}
+
+header {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+#skills {
+  background-color: #ff5d73;
+  border: none;
+  padding: 15px 30px;
+  text-align: center;
+  display: inline-block;
+  font: 16px;
+  transition-duration: 0.4s;
+}
+#skills:hover {
+  background-color: black;
+}
+
+#github {
+  background-color: #7c7a7a;
+  border: none;
+  padding: 15px 30px;
+  text-align: center;
+  display: inline-block;
+  font: 16px;
+  transition-duration: 0.4s;
+}
+#github:hover {
+  background-color: black;
+}
+
+#contact {
+  background-color: #ff5d73;
+  border: none;
+  padding: 15px 30px;
+  text-align: center;
+  display: inline-block;
+  font: 16px;
+  transition-duration: 0.4s;
+}
+#contact:hover {
+  background-color: black;
+}
+
+#linkedin {
+  background-color: #7c7a7a;
+  border: none;
+  padding: 15px 30px;
+  text-align: center;
+  display: inline-block;
+  font: 16px;
+  transition-duration: 0.4s;
+}
+
+#linkedin:hover {
+  background-color: black;
+}
+
+#about {
+  font-weight: bold;
+}
